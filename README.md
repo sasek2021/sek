@@ -1,4 +1,4 @@
-# sek 
+# Sa Sek 
 <div align="center">
   <!-- Elegant Typing Animation -->
   <a href="https://git.io/typing-svg">
@@ -149,10 +149,10 @@ I'm a software developer with 5+ years of experience, contributing to both Web2 
 ## :bar_chart: GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chhimsokrith0&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chhimsokrith0&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sasek2021&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasek2021&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chhimsokrith0&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sasek2021&theme=tokyonight&hide_border=true" />
 </div>
